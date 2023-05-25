@@ -20,7 +20,4 @@ class TestArrs(unittest.TestCase):
 
 
 
-      #assert arrs.my_slice([1, 2, 3], -3, -1) == [1, 2]
-        #assert arrs.my_slice([1, 2, 3], 5) == []
-        #assert arrs.my_slice([]) == []
-        #assert arrs.my_slice([1, 2, 3], -4) == [1, 2, 3]
+
